@@ -1,0 +1,38 @@
+.main{
+  height: 300px;
+  margin: -50 -50 -50 -50;
+}
+.header{
+  background-color:rgb(230, 0, 14) ;
+  text-align: center;
+  font-family: 'Gugi', cursive;
+  font-size: 50px;
+  width:100%;
+  height: 100%;
+  margin: 0px 0px 0px 0px;
+}
+.logo_text h1, .logo_text h1 a, .logo_text h1 a:hover{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.logo_text h2{
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+}
+.logo{
+  margin: -50 -50 -50 -50;
+}
+.menubar{
+  width: 100%;
+}
+ul.menu{
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.menu li{
+  float:left;
+  list-style: none;
+  padding: 0 0 0 9px;
+  margin: 1px 150px 0 0;
+  text-align: center;
+}
