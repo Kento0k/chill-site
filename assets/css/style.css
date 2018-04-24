@@ -3,7 +3,7 @@
   padding: 0;
 }
 .main{
-  height: 260px;
+  height: 300px;
   margin: -50 -50 -50 -50;
 }
 .header{
@@ -35,9 +35,8 @@ ul.menu{
 ul.menu li{
   float:left;
   list-style: none;
-  padding: 0 0 0 9px;
-  margin: 1px 170px 0 0;
-  text-align: center;
+  padding: 0 0 0 0px;
+  margin: 1px 180px 0 0;
 }
 ul.menu li a{
   font-family: 'Mina', sans-serif;
@@ -46,4 +45,10 @@ ul.menu li a{
 }
 ul.menu li a:hover{
   color: rgb(63, 231, 29);
+}
+
+.headers{
+	list-style: none;
+	text-align: center;	 
+	text-decoration: none;
 }
